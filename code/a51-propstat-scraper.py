@@ -14,17 +14,17 @@ SoupBeta = BeautifulSoup(PageBeta)
 #Process Page and Generate Output
 site_days = SoupBeta.find_all("span", attrs={'class':"a51-vote-count-post"})
 SiteStats = SoupBeta.find_all("div", attrs={'class':"site-health-value"})
-site_quesperday = SiteStats[0].string
-site_anspercent = SiteStats[1].string
-site_avidusers = SiteStats[2].string
-site_totalusers = SiteStats[3].string
-site_answerratio = SiteStats[4].string
-site_visitsperday = SiteStats[5].string
+site_quesperday = SiteStats[0].string.replace(",","")
+site_anspercent = SiteStats[1].string.replace(",","")
+site_avidusers = SiteStats[2].string.replace(",","")
+site_totalusers = SiteStats[3].string.replace(",","")
+site_answerratio = SiteStats[4].string.replace(",","")
+site_visitsperday = SiteStats[5].string.replace(",","")
 
 UserStats = SoupBeta.ul.find_all("span")
-site_users2h = UserStats[0].string[:-6]
-site_users2k = UserStats[1].string[:-6]
-site_users3k = UserStats[2].string[:-6]
+site_users2h = UserStats[0].string[:-6].replace(",","")
+site_users2k = UserStats[1].string[:-6].replace(",","")
+site_users3k = UserStats[2].string[:-6].replace(",","")
 
 print("Scraping complete!")
 print(str(datetime.date.today()), site_quesperday, site_anspercent, site_avidusers, site_totalusers, site_answerratio, site_visitsperday,
