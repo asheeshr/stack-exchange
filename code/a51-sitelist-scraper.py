@@ -44,7 +44,7 @@ while nextPage : #Iterate till pages remain
 
         site_name = i.contents[3].a.string
         CompleteList.append((site_id, site_name, site_status)) #Site Name, Status
-        print(site_id, site_name, temp_status)
+        print(site_id, site_name, site_status)
 
     nextPage = SoupBeta.find_all("span", attrs={'class':'page-numbers next'})
 #'''
@@ -55,6 +55,6 @@ print("Scraping complete!")
 CompleteListFile = open("../data/sitelist.csv", 'w')
 CompleteListFile.write("Id, Site, Status" + '\n')
 for i in CompleteList :
-    CompleteListFile.write(i[0] + ', ' + '"' + i[1][1:-1] + '"' + ', ' + i[2] + '\n')
+    CompleteListFile.write(i[0] + ',' + '"' + i[1][1:-1] + '"' + ',' + i[2] + '\n')
 
 CompleteListFile.close()
