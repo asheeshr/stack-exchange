@@ -1,144 +1,144 @@
 Id, Site, Status
-4, "Audio-Video Production", Beta
-33, "Statistical Analysis", Graduated
-51, "Astronomy", Closed
-57, "Web Applications", Graduated
-117, "Quantitative Finance", Beta
-151, "Apple", Graduated
-164, "Firearms", Closed
-170, "Home Improvement", Graduated
-614, "Electronic Gadgets", Closed
-894, "Pro Webmasters", Graduated
-1265, "Photography and Photographic Editing", Graduated
-1269, "English Language & Usage", Graduated
-1288, "Food and Cooking", Graduated
-1321, "Motor Vehicle Maintenance and Repair", Beta
-1338, "Gaming", Graduated
-1369, "Gardening and Landscaping", Beta
-1425, "Geographic Information Systems", Graduated
-1500, "WordPress Development", Graduated
-1618, "Economics", Closed
-1619, "Homebrewing (Beer, Wine, etc.)", Beta
-1623, "Writers", Beta
-1691, "Signal Processing", Beta
-1721, "Personal Finance and Money", Graduated
-1817, "Biblical Hermeneutics", Beta
-1908, "Physics", Graduated
-1924, "Graphic Design", Graduated
-2148, "TeX, LaTeX and friends", Graduated
-2149, "Cognitive Sciences", Beta
-2208, "Role-playing Games", Graduated
-2241, "Software Quality Assurance & Testing", Beta
-2305, "Bicycles", Graduated
-2578, "Philosophy", Beta
-2651, "Electrical Engineering", Graduated
-2732, "Atheism", Closed
-2825, "Game Development", Graduated
-2978, "Drupal Answers", Graduated
-3303, "Sexuality", Closed
-3352, "Not Programming Related", Graduated
-3355, "Mathematics", Graduated
-3425, "Poker", Beta
-3659, "The Great Outdoors", Beta
-3698, "Movies & TV", Beta
-3924, "Unix & Linux", Graduated
-4059, "Musical Practice and Performance", Beta
-4260, "Database Administrators", Graduated
-4296, "Personal Productivity", Beta
-4451, "Science Fiction & Fantasy", Graduated
-4470, "Martial Arts", Beta
-4570, "Code Golf & Programming Puzzles", Beta
-4861, "Parenting", Beta
-4964, "Chemistry", Beta
-5022, "3D Graphics", Closed
-5169, "History", Beta
-5220, "Board and Card Games", Beta
-5728, "User Experience", Graduated
-6243, "Startup Business", Closed
-6320, "Guitars", Closed
-6388, "Chinese Language", Beta
-6426, "Literature", Closed
-6433, "Healthcare IT", Closed
-6591, "Travel", Graduated
-6607, "Artificial Intelligence", Closed
-6673, "Linguistics", Beta
-7080, "Physical Fitness", Beta
-7526, "Japanese Language", Beta
-7551, "Chess", Beta
-7716, "Ubuntu", Graduated
-8431, "IT Security", Graduated
-8766, "Theoretical Computer Science", Graduated
-10848, "Russian Language", Beta
-10919, "LEGO", Beta
-10947, "Project Management", Beta
-11464, "Code Review", Beta
-11624, "Freelance Workers", Closed
-11655, "Christianity", Graduated
-11942, "Game of Go", Closed
-12432, "Libraries & Information Science", Closed
-12502, "Biology", Beta
-12612, "Skeptics", Graduated
-14456, "Spanish Language", Beta
-14922, "Islam", Beta
-15025, "How Things Work", Closed
-48872, "Magento", Beta
-15811, "Cryptography", Beta
-16617, "Academia", Graduated
-18238, "Android Enthusiasts", Graduated
-18413, "German Language", Beta
-20757, "Windows Phone", Beta
-22246, "Personal Manufacturing", Closed
-22435, "Mi Yodeya", Graduated
-23539, "Stack Overflow (in Portuguese)", Beta
-23848, "Theoretical Physics", Closed
-25069, "SmugMug", Closed
-25906, "Politics", Beta
-26434, "Machine Learning", Closed
-27135, "Sports", Beta
-28815, "Computational Science", Beta
-28921, "SharePoint", Graduated
-29480, "French Language", Beta
-30763, "Bitcoin", Beta
-30887, "The Workplace", Graduated
-31538, "Anime & Manga", Beta
-33364, "Sustainable Living", Beta
-35636, "Computer Science", Beta
-36296, "Earth Science", Beta
-37041, "Raspberry Pi", Beta
-37227, "Freelancing", Beta
-37304, "Mathematica", Graduated
-37589, "Salesforce", Beta
-38335, "Tridion", Beta
-38732, "Expatriates", Beta
-39787, "Digital Preservation", Closed
-40020, "Robotics", Beta
-40377, "Blender", Beta
-40518, "Big Data", Closed
-40709, "Astronomy", Beta
-41665, "English Language Learners", Beta
-41738, "Machine Learning", Closed
-41850, "Digital Fabrication", Closed
-42572, "Aviation", Beta
-42949, "Italian Language", Beta
-43029, "Amateur Radio", Beta
-52519, "Network Engineering", Beta
-43283, "Space Exploration", Beta
-43502, "Genealogy & Family History", Beta
-44478, "Gamification", Closed
-44577, "Relationships and Dating", Closed
-44686, "Pets", Beta
-45128, "Puzzling", Beta
-46387, "ExpressionEngine", Beta
-46400, "Ebooks", Beta
-48905, "Beer", Beta
-49538, "Arduino", Closed
-49551, "Reverse Engineering", Beta
-51461, "Mental Fitness", Closed
-51674, "Open Data", Beta
-58150, "Arduino", Beta
-60887, "Software Recommendations", Beta
-56447, "Tor", Beta
-64216, "Mathematics Educators", Beta
-58842, "Joomla", Beta
-55053, "Data Science", Beta
-57719, "Artificial Intelligence", Closed
+4,"Audio-Video Production",Beta
+33,"Statistical Analysis",Graduated
+51,"Astronomy",Closed
+57,"Web Applications",Graduated
+117,"Quantitative Finance",Beta
+151,"Apple",Graduated
+164,"Firearms",Closed
+170,"Home Improvement",Graduated
+614,"Electronic Gadgets",Closed
+894,"Pro Webmasters",Graduated
+1265,"Photography and Photographic Editing",Graduated
+1269,"English Language & Usage",Graduated
+1288,"Food and Cooking",Graduated
+1321,"Motor Vehicle Maintenance and Repair",Beta
+1338,"Gaming",Graduated
+1369,"Gardening and Landscaping",Beta
+1425,"Geographic Information Systems",Graduated
+1500,"WordPress Development",Graduated
+1618,"Economics",Closed
+1619,"Homebrewing (Beer, Wine, etc.)",Beta
+1623,"Writers",Beta
+1691,"Signal Processing",Beta
+1721,"Personal Finance and Money",Graduated
+1817,"Biblical Hermeneutics",Beta
+1908,"Physics",Graduated
+1924,"Graphic Design",Graduated
+2148,"TeX, LaTeX and friends",Graduated
+2149,"Cognitive Sciences",Beta
+2208,"Role-playing Games",Graduated
+2241,"Software Quality Assurance & Testing",Beta
+2305,"Bicycles",Graduated
+2578,"Philosophy",Beta
+2651,"Electrical Engineering",Graduated
+2732,"Atheism",Closed
+2825,"Game Development",Graduated
+2978,"Drupal Answers",Graduated
+3303,"Sexuality",Closed
+3352,"Not Programming Related",Graduated
+3355,"Mathematics",Graduated
+3425,"Poker",Beta
+3659,"The Great Outdoors",Beta
+3698,"Movies & TV",Beta
+3924,"Unix & Linux",Graduated
+4059,"Musical Practice and Performance",Beta
+4260,"Database Administrators",Graduated
+4296,"Personal Productivity",Beta
+4451,"Science Fiction & Fantasy",Graduated
+4470,"Martial Arts",Beta
+4570,"Code Golf & Programming Puzzles",Beta
+4861,"Parenting",Beta
+4964,"Chemistry",Beta
+5022,"3D Graphics",Closed
+5169,"History",Beta
+5220,"Board and Card Games",Beta
+5728,"User Experience",Graduated
+6243,"Startup Business",Closed
+6320,"Guitars",Closed
+6388,"Chinese Language",Beta
+6426,"Literature",Closed
+6433,"Healthcare IT",Closed
+6591,"Travel",Graduated
+6607,"Artificial Intelligence",Closed
+6673,"Linguistics",Beta
+7080,"Physical Fitness",Beta
+7526,"Japanese Language",Beta
+7551,"Chess",Beta
+7716,"Ubuntu",Graduated
+8431,"IT Security",Graduated
+8766,"Theoretical Computer Science",Graduated
+10848,"Russian Language",Beta
+10919,"LEGO",Beta
+10947,"Project Management",Beta
+11464,"Code Review",Beta
+11624,"Freelance Workers",Closed
+11655,"Christianity",Graduated
+11942,"Game of Go",Closed
+12432,"Libraries & Information Science",Closed
+12502,"Biology",Beta
+12612,"Skeptics",Graduated
+14456,"Spanish Language",Beta
+14922,"Islam",Beta
+15025,"How Things Work",Closed
+48872,"Magento",Beta
+15811,"Cryptography",Beta
+16617,"Academia",Graduated
+18238,"Android Enthusiasts",Graduated
+18413,"German Language",Beta
+20757,"Windows Phone",Beta
+22246,"Personal Manufacturing",Closed
+22435,"Mi Yodeya",Graduated
+23539,"Stack Overflow (in Portuguese)",Beta
+23848,"Theoretical Physics",Closed
+25069,"SmugMug",Closed
+25906,"Politics",Beta
+26434,"Machine Learning",Closed
+27135,"Sports",Beta
+28815,"Computational Science",Beta
+28921,"SharePoint",Graduated
+29480,"French Language",Beta
+30763,"Bitcoin",Beta
+30887,"The Workplace",Graduated
+31538,"Anime & Manga",Beta
+33364,"Sustainable Living",Beta
+35636,"Computer Science",Beta
+36296,"Earth Science",Beta
+37041,"Raspberry Pi",Beta
+37227,"Freelancing",Beta
+37304,"Mathematica",Graduated
+37589,"Salesforce",Beta
+38335,"Tridion",Beta
+38732,"Expatriates",Beta
+39787,"Digital Preservation",Closed
+40020,"Robotics",Beta
+40377,"Blender",Beta
+40518,"Big Data",Closed
+40709,"Astronomy",Beta
+41665,"English Language Learners",Beta
+41738,"Machine Learning",Closed
+41850,"Digital Fabrication",Closed
+42572,"Aviation",Beta
+42949,"Italian Language",Beta
+43029,"Amateur Radio",Beta
+52519,"Network Engineering",Beta
+43283,"Space Exploration",Beta
+43502,"Genealogy & Family History",Beta
+44478,"Gamification",Closed
+44577,"Relationships and Dating",Closed
+44686,"Pets",Beta
+45128,"Puzzling",Beta
+46387,"ExpressionEngine",Beta
+46400,"Ebooks",Beta
+48905,"Beer",Beta
+49538,"Arduino",Closed
+49551,"Reverse Engineering",Beta
+51461,"Mental Fitness",Closed
+51674,"Open Data",Beta
+58150,"Arduino",Beta
+60887,"Software Recommendations",Beta
+56447,"Tor",Beta
+64216,"Mathematics Educators",Beta
+58842,"Joomla",Beta
+55053,"Data Science",Beta
+57719,"Artificial Intelligence",Closed
