@@ -76,11 +76,11 @@ def main() :
     site_list = get_betas()
     #print(site_list)
     PropFile = open("../data/" + 'useroverlap' + ".csv", 'w')
-    PropFile.write( 'SiteId' + 'Exclusive' + 
-                    'OverlapId1' + 'OverlapPercent1' + 
-                    'OverlapId2' + 'OverlapPercent2' + 
-                    'OverlapId3' + 'OverlapPercent3' + 
-                    'OverlapId4' + 'OverlapPercent4' + '\n' )
+    PropFile.write( 'SiteId' + ',' + 'Exclusive' + 
+                    'OverlapId1' + ',' + 'OverlapPercent1' + 
+                    'OverlapId2' + ',' + 'OverlapPercent2' + 
+                    'OverlapId3' + ',' + 'OverlapPercent3' + 
+                    'OverlapId4' + ',' + 'OverlapPercent4' + '\n' )
                     
 
     for site_id in site_list[:5]:
