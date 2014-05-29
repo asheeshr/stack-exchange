@@ -6,12 +6,12 @@ import datetime
 from bs4 import BeautifulSoup
 import csv
 
-users = {}
 
 def scrape_proposal(site_id) :
     
     print("Started Scraping!")
     
+    users = {}
     #Get the web page 
     baseURL = "http://area51.stackexchange.com/proposals/"
     #site_id = '58150'
@@ -76,10 +76,10 @@ def main() :
     site_list = get_betas()
     #print(site_list)
     PropFile = open("../data/" + 'useroverlap' + ".csv", 'w')
-    PropFile.write( 'SiteId' + ',' + 'Exclusive' + 
-                    'OverlapId1' + ',' + 'OverlapPercent1' + 
-                    'OverlapId2' + ',' + 'OverlapPercent2' + 
-                    'OverlapId3' + ',' + 'OverlapPercent3' + 
+    PropFile.write( 'SiteId' + ',' + 'Exclusive' + ',' +
+                    'OverlapId1' + ',' + 'OverlapPercent1' + ',' +
+                    'OverlapId2' + ',' + 'OverlapPercent2' + ',' +
+                    'OverlapId3' + ',' + 'OverlapPercent3' + ',' +
                     'OverlapId4' + ',' + 'OverlapPercent4' + '\n' )
                     
 
