@@ -46,6 +46,8 @@ def update_csv(PropFile, site_id, data) :
     
     usersExcl, users = data
 
+    if users=={} : return 
+
     PropFile.write( site_id + ',' + usersExcl)
     for i,j in data[1].items():
         PropFile.write(',')
@@ -60,10 +62,10 @@ def get_betas() :
 
     SiteList = open("../data/sitelist.csv", 'r', newline = '')
     BetaList = csv.reader(SiteList)
-    SiteIdNameList = [(s[0],s[1]) for s in BetaList if s[2] == "Beta"]
+    SiteIdNameList = [(s[0],s[1]) for s in BetaList] #if s[2] == "Beta"]
 #    print(SiteIdNameList)
     SiteList.close()
-    return SiteIdNameList
+    return SiteIdNameList[1:]
 
     #for s in BetaList :
     #    print(s[2])
@@ -83,7 +85,7 @@ def main() :
                     'OverlapId4' + ',' + 'OverlapPercent4' + '\n' )
                     
 
-    for site_id in site_list[:5]:
+    for site_id in site_list:
         print(site_id[1])
         print(site_list.index(site_id) + 1) #Print Request Number
         data = scrape_proposal(site_id[0])
